@@ -124,7 +124,7 @@ st.caption("Capstone 2 · Predicts tomorrow's minimum temperature from historica
 st.markdown("### Step 1 - Choose a date")
 st.write(
     "Pick a date and the app will forecast the **minimum temperature for the "
-    "following day**, using only the history strictly before it — exactly the "
+    "following day**, using only the history strictly before it - exactly the "
     "information that would genuinely be available the night before."
 )
 
