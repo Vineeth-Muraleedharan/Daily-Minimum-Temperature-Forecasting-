@@ -8,6 +8,7 @@ ensembles, gradient boosting, classical time series, and deep learning - are tra
 and compared under an identical, leakage-free chronological evaluation protocol.
 
 **Live app:** [https://daily-minimum-temperature-forecasting-by-vineeth.streamlit.app/]
+
 **Full write-up:** [VINEETH_Capstone_2_MDD .pdf](./VINEETH_Capstone_2_MDD%20.pdf)
 
 ---
